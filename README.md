@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🎉 I wrote a book about graphics programming and generative art using Go. Check it out!
-- [Get on Gumroad](https://gumroad.com/l/generative-art-in-golang)
-- [Get on Leanpub](https://leanpub.com/generative-art-in-golang)
+- [Get it on Gumroad](https://gumroad.com/l/generative-art-in-golang)
+- [Get it on Leanpub](https://leanpub.com/generative-art-in-golang)
 
 ---
 
