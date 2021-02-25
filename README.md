@@ -6,6 +6,10 @@
 
 ---
 
+# Hi, I'm Preslav.
+
+![Preslav Rachev speaking at PyConWeb 2019](https://preslav.me/content/images/size/w1140/2020/06/me-2.jpg)
+
 I am a software engineer with around a decade behind my back, developing data-intensive software systems and applications. I have recently started work on my independent business, focusing on education (books, courses, etc) and building my own products and services. I am also helping small teams bring their ideas to market. If you are in need of technical guidance or mentoring, feel free to [get in touch](https://preslav.me/about-me/#fs-frm-inputs).
 
 Besides my pure developer duties, I advocate for a strong culture among software developers and solo-preneurs - whether through [my blog](https://preslav.me), or speaking at various events. I am an avid reader, a distance runner, and a hobby musician.
