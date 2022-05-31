@@ -8,7 +8,7 @@
 
 # Hi, I'm Preslav.
 
-![Preslav Rachev speaking at PyConWeb 2019](https://preslav.me/content/images/size/w1140/2020/06/me-2.jpg)
+![Preslav Rachev speaking at PyConWeb 2019]([https://preslav.me/content/images/size/w1140/2020/06/me-2.jpg](https://preslav.me/img/preslav_hu752f8e7becab6a21e985cd5baa3fbb5f_71955_1320x0_resize_q75_box.jpg))
 
 I am a software engineer with around a decade behind my back, developing data-intensive software systems and applications. I have recently started work on my independent business, focusing on education (books, courses, etc) and building my own products and services. I am also helping small teams bring their ideas to market. If you are in need of technical guidance or mentoring, feel free to [get in touch](https://tally.so/r/mOavMw).
 
