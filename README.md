@@ -4,7 +4,7 @@
 - [Get it on Gumroad](https://gumroad.com/l/generative-art-in-golang)
 - [Get it on Leanpub](https://leanpub.com/generative-art-in-golang)
 
-I am also offering variety of [professional services](https://preslav.me/services/) in the IT and knowlegde management domains. If you want me to help your team, class, or community, feel free to get in touch.
+I am also offering a variety of [professional services](https://preslav.me/services/) in the IT and knowlegde management domains. If you want me to help your team, class, or community, feel free to get in touch.
 
 ---
 
